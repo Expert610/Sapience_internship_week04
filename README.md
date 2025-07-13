@@ -48,14 +48,12 @@ This project is part of my AI/ML internship at **Sapience**. It implements an NL
 >
 >  
 >
-> ![Training Screenshot](screenshots/model_training.png)
->
-> 
-> ![Training Screenshot](screenshots/model_training.png)
+> ![Training Screenshot](spam.PNG)
+
 
 ---
 
-## 🚀 Getting Started
+
 
 ### Prerequisites
 ```bash
